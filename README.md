@@ -1,4 +1,15 @@
 # My CS Degree
+My Bachelor's thesis:
+
+```
+https://github.com/lambdakilo/bscthesis
+```
+
+My Master's thesis:
+
+```
+https://github.com/lambdakilo/bscthesis
+```
 
 | Course Code | Course Name | Credits | Grade |
 |------------:|:------------|--------:|:-----:|
